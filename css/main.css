@@ -110,11 +110,12 @@ body{
 .content-left{
     overflow: hidden;
     border-right: 2px solid #888;
-    padding-right: 100px;
+    padding-right: 80px;
 }
 .section-panel{
     z-index: 99;
 }
+.section-panel img{display: block;float: left;margin: 4px;}
 table,th,.panel-heading{
     color: #888;
     text-align: center;
@@ -182,15 +183,6 @@ table,th,.panel-heading{
     width: 2px;height: 300px;margin-left: 40px;
     background-color: #ff8c49;
 }
-/*===section:box===*/
-.section-box{
-    width: 465px;
-    height: 750px;
-    float: left;
-    margin: 1px;
-}
-.section-box img{display: block;float: left;}
-.box-small{width: 310px;}.box-big{width: 620px;}
 /*======section:footer=====*/
 .footer{
     width: 100%;
