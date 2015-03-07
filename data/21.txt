@@ -1,0 +1,550 @@
+﻿<div class="section-panel">
+    <h2 class="section-title">目前成员</h2>
+	  <!-- Table -->
+	  <table class="table table-condensed table-hover">
+      <thead>
+        <tr>
+          <th>职务</th>
+          <th>姓名</th>
+          <th>院系</th>
+          <th>ID</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>站长</td>
+          <td>黄建伟</td>
+          <td>2012级 金融</td>
+          <td>西瓜</td>
+        </tr>
+        <tr>
+          <td>副站长</td>
+          <td>戴东升</td>
+          <td>2012级 保险</td>
+          <td>Day格瓦拉</td>
+        </tr>
+        <tr>
+          <td>编辑部负责人</td>
+          <td>邓昭晨</td>
+          <td>2012级 金融</td>
+          <td>Cynthia走青春</td>
+        </tr>
+        <tr>
+          <td>办公室负责人</td>
+          <td>邢念词</td>
+          <td>2013级 金双</td>
+          <td>Cait.CC</td>
+        </tr>
+        <tr>
+          <td>办公室</td>
+          <td>罗微笑</td>
+          <td>2013级 经数</td>
+          <td>smile luo</td>
+        </tr>
+        <tr>
+          <td>办公室</td>
+          <td>陈鑫</td>
+          <td>2013级 经济</td>
+          <td>老司机</td>
+        </tr>
+        <tr>
+          <td>办公室</td>
+          <td>金雪</td>
+          <td>2014级 保险</td>
+          <td>元宝</td>
+        </tr>
+        <tr>
+          <td>办公室</td>
+          <td>许淡淡</td>
+          <td>2014级 社保</td>
+          <td>淡哥</td>
+        </tr>
+        <tr>
+          <td>办公室</td>
+          <td>胡俪潇</td>
+          <td>2014级 信管</td>
+          <td>狐狸</td>
+        </tr>
+        <tr>
+          <td>办公室</td>
+          <td>张曦文</td>
+          <td>2014级 金工</td>
+          <td>小黑</td>
+        </tr>
+        <tr>
+          <td>办公室</td>
+          <td>吕言腾</td>
+          <td>2014级 工商</td>
+          <td>欧巴</td>
+        </tr>
+        <tr>
+          <td>办公室</td>
+          <td>图古勒</td>
+          <td>2014级 工商</td>
+          <td>图图</td>
+        </tr>
+        <tr>
+          <td>设计部负责人</td>
+          <td>游洋</td>
+          <td>2013级 经济</td>
+          <td>柚子</td>
+        </tr>
+        <tr>
+          <td>设计部</td>
+          <td>万倩茹</td>
+          <td>2013级 法会</td>
+          <td>小万</td>
+        </tr>
+        <tr>
+          <td>设计部</td>
+          <td>王彦如</td>
+          <td>2013级 财管</td>
+          <td>喵喵</td>
+        </tr>
+        <tr>
+          <td>设计部</td>
+          <td>周小钰</td>
+          <td>2014级 计科</td>
+          <td>小钰</td>
+        </tr>
+        <tr>
+          <td>设计部</td>
+          <td>武玥</td>
+          <td>2014级 金双</td>
+          <td>阿may</td>
+        </tr>
+        <tr>
+          <td>设计部</td>
+          <td>杨景然</td>
+          <td>2014级 行管</td>
+          <td>大象</td>
+        </tr>
+        <tr>
+          <td>设计部</td>
+          <td>罗曼</td>
+          <td>2014级 CPA</td>
+          <td>罗大大</td>
+        </tr>
+        <tr>
+          <td>设计部</td>
+          <td>向瑾瑜</td>
+          <td>2014级 国贸</td>
+          <td>金鱼</td>
+        </tr>
+        <tr>
+          <td>开发部负责人</td>
+          <td>赵泽清</td>
+          <td>2012级 计科</td>
+          <td>清清</td>
+        </tr>
+        <tr>
+          <td>开发部</td>
+          <td>何晨阳</td>
+          <td>2013级 计科</td>
+          <td>©©</td>
+        </tr>
+        <tr>
+          <td>开发部</td>
+          <td>祁煌</td>
+          <td>2013级 计科</td>
+          <td>小勾对</td>
+        </tr>
+        <tr>
+          <td>开发部</td>
+          <td>张李燕</td>
+          <td>2013级 计科</td>
+          <td>章鱼乖乖</td>
+        </tr>
+        <tr>
+          <td>开发部</td>
+          <td>潘入阳</td>
+          <td>2014级 人力</td>
+          <td>直直</td>
+        </tr>
+        <tr>
+          <td>开发部</td>
+          <td>罗年强</td>
+          <td>2014级 信管</td>
+          <td>波波</td>
+        </tr>
+        <tr>
+          <td>开发部</td>
+          <td>张胤冬</td>
+          <td>2014级 商英</td>
+          <td>冬冬</td>
+        </tr>
+        <tr>
+          <td>开发部</td>
+          <td>荣若芷</td>
+          <td>2014级 经管</td>
+          <td>绒毛</td>
+        </tr>
+        <tr>
+          <td>新闻网负责人</td>
+          <td>李丽妍</td>
+          <td>2013级 国商</td>
+          <td>妍笑嫣嫣</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>杨诗佳</td>
+          <td>2013级 CPA</td>
+          <td>陌上花开</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>戴雯</td>
+          <td>2014级 税务</td>
+          <td>ING</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>刘诗宜</td>
+          <td>2014级 财管</td>
+          <td>元子</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>周雨薇</td>
+          <td>2014级 工商</td>
+          <td>vian1996</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>易菁</td>
+          <td>2014级 新闻</td>
+          <td>青草菁菁</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>汪子璇</td>
+          <td>2014级 经管</td>
+          <td>hkkhafong</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>朱明柳</td>
+          <td>2014级 国商</td>
+          <td>blairzz</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>魏臻</td>
+          <td>2014级 投资</td>
+          <td>几经几世几多人</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>庞珊珊</td>
+          <td>2014级 经统</td>
+          <td>参商</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>张加丽</td>
+          <td>2014级 市场营销</td>
+          <td>酱酱</td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>王哲浩</td>
+          <td>2014级 工双</td>
+          <td>可乐要大杯</td>
+        </tr>
+        <tr>
+          <td>思想网负责人</td>
+          <td>梁璐</td>
+          <td>2013级 保险</td>
+          <td>老怪</td>
+        </tr>
+        <tr>
+          <td>思想网</td>
+          <td>武依兰</td>
+          <td>2014级 金融</td>
+          <td>柳</td>
+        </tr>
+        <tr>
+          <td>思想网</td>
+          <td>周昡</td>
+          <td>2014级 金融</td>
+          <td>1米53</td>
+        </tr>
+        <tr>
+          <td>思想网</td>
+          <td>于培</td>
+          <td>2014级 国商</td>
+          <td>于培</td>
+        </tr>
+        <tr>
+          <td>思想网</td>
+          <td>任禹凡</td>
+          <td>2014级 英翻</td>
+          <td>风中的咏叹</td>
+        </tr>
+        <tr>
+          <td>学习网负责人</td>
+          <td>江雯雯</td>
+          <td>2013级 经管</td>
+          <td>阿戅</td>
+        </tr>
+        <tr>
+          <td>学习网</td>
+          <td>罗婷</td>
+          <td>2014级 保险</td>
+          <td>其实</td>
+        </tr>
+        <tr>
+          <td>学习网</td>
+          <td>付宇晴</td>
+          <td>2014级 会双</td>
+          <td>静默</td>
+        </tr>
+        <tr>
+          <td>学习网</td>
+          <td>蒋婉童</td>
+          <td>2014级 计科</td>
+          <td>马铃薯</td>
+        </tr>
+        <tr>
+          <td>学习网</td>
+          <td>李娟</td>
+          <td>2014级 商英</td>
+          <td>永远的17岁</td>
+        </tr>
+        <tr>
+          <td>文苑负责人</td>
+          <td>秦雪雯</td>
+          <td>2013级 经管</td>
+          <td>老秦</td>
+        </tr>
+        <tr>
+          <td>文苑</td>
+          <td>冯晴雪</td>
+          <td>2014级 经统</td>
+          <td>月川乖</td>
+        </tr>
+        <tr>
+          <td>文苑</td>
+          <td>熊方黎</td>
+          <td>2014级 国商</td>
+          <td>funny</td>
+        </tr>
+        <tr>
+          <td>文苑</td>
+          <td>吴子璇</td>
+          <td>2014级 计科</td>
+          <td>toxique</td>
+        </tr>
+        <tr>
+          <td>生活网负责人</td>
+          <td>付美琦</td>
+          <td>2013级 金信</td>
+          <td>Maggie</td>
+        </tr>
+        <tr>
+          <td>生活网</td>
+          <td>何若晗</td>
+          <td>2013级 金统</td>
+          <td>何兮</td>
+        </tr>
+        <tr>
+          <td>生活网</td>
+          <td>康浩</td>
+          <td>2013级 物流管理</td>
+          <td>大K</td>
+        </tr>
+        <tr>
+          <td>生活网</td>
+          <td>德西曲珍</td>
+          <td>2014级 物流管理</td>
+          <td>Z.</td>
+        </tr>
+        <tr>
+          <td>生活网</td>
+          <td>赵德香</td>
+          <td>2014级 保险</td>
+          <td>箱箱</td>
+        </tr>
+        <tr>
+          <td>生活网</td>
+          <td>王雨苗</td>
+          <td>2014级 国贸</td>
+          <td>Cat</td>
+        </tr>
+        <tr>
+          <td>生活网</td>
+          <td>江世民</td>
+          <td>2014级 信管</td>
+          <td>Red</td>
+        </tr>
+        <tr>
+          <td>生活网</td>
+          <td>武文韬</td>
+          <td>2014级 工双</td>
+          <td>墨瞳</td>
+        </tr>
+        <tr>
+          <td>音乐网负责人</td>
+          <td>祝若淙</td>
+          <td>2013级 经数</td>
+          <td>猪儿虫</td>
+        </tr>
+        <tr>
+          <td>音乐网</td>
+          <td>蒋联源</td>
+          <td>2013级 保险</td>
+          <td>莫离不是贰</td>
+        </tr>
+        <tr>
+          <td>音乐网</td>
+          <td>康昌绥</td>
+          <td>2013级 投资学</td>
+          <td>kcs</td>
+        </tr>
+        <tr>
+          <td>音乐网</td>
+          <td>陈昊然</td>
+          <td>2014级 金双</td>
+          <td>和尚</td>
+        </tr>
+        <tr>
+          <td>音乐网</td>
+          <td>黄馨冉</td>
+          <td>2014级 商英</td>
+          <td>维尼维尼熊</td>
+        </tr>
+        <tr>
+          <td>音乐网</td>
+          <td>甘雪</td>
+          <td>2014级 财管</td>
+          <td>Moment</td>
+        </tr>
+        <tr>
+          <td>电影网</td>
+          <td>刘旭堃</td>
+          <td>2013级 金融</td>
+          <td>lukstc</td>
+        </tr>
+        <tr>
+          <td>电影网</td>
+          <td>黄逸轩</td>
+          <td>2013级 国商</td>
+          <td>Leo</td>
+        </tr>
+        <tr>
+          <td>电影网</td>
+          <td>薛泽剑</td>
+          <td>2014级 国商</td>
+          <td>xzj</td>
+        </tr>
+        <tr>
+          <td>电影网</td>
+          <td>王楠</td>
+          <td>2014级 国商</td>
+          <td>agnzy</td>
+        </tr>
+        <tr>
+          <td>电影网</td>
+          <td>申晓航</td>
+          <td>2014级 金工</td>
+          <td>xhang</td>
+        </tr>
+        <tr>
+          <td>电影网</td>
+          <td>李彦南</td>
+          <td>2014级 工商</td>
+          <td>chonger</td>
+        </tr>
+        <tr>
+          <td>电影网</td>
+          <td>封雅卿</td>
+          <td>2014级 财管</td>
+          <td>ritaf</td>
+        </tr>
+        <tr>
+          <td>软件园负责人</td>
+          <td>陈远豪</td>
+          <td>2013级 税务</td>
+          <td>dadmaycry</td>
+        </tr>
+        <tr>
+          <td>软件园</td>
+          <td>张若尘</td>
+          <td>2014级 会计</td>
+          <td>zrc645401293</td>
+        </tr>
+        <tr>
+          <td>软件园</td>
+          <td>刘云霞</td>
+          <td>2014级 计科</td>
+          <td>wangyuan</td>
+        </tr>
+        <tr>
+          <td>软件园</td>
+          <td>王灿灿</td>
+          <td>2014级 国贸</td>
+          <td>shenshen</td>
+        </tr>
+        <tr>
+          <td>软件园</td>
+          <td>刘思雨</td>
+          <td>2014级 金融</td>
+          <td>ghfjdklove</td>
+        </tr>
+        <tr>
+          <td>软件园</td>
+          <td>宋思霖</td>
+          <td>2014级 信管</td>
+          <td>siling</td>
+        </tr>
+        <tr>
+          <td>自媒体负责人</td>
+          <td>夏雨</td>
+          <td>2013级 财政</td>
+          <td>西财夏小咪</td>
+        </tr>
+        <tr>
+          <td>自媒体</td>
+          <td>徐梦涵</td>
+          <td>2013级 国商</td>
+          <td>牙牙啊牙牙</td>
+        </tr>
+        <tr>
+          <td>自媒体</td>
+          <td>刘航</td>
+          <td>2013级 经统</td>
+          <td>Elerry_king</td>
+        </tr>
+        <tr>
+          <td>自媒体</td>
+          <td>金宁静</td>
+          <td>2013级 金数</td>
+          <td>宁静</td>
+        </tr>
+        <tr>
+          <td>自媒体</td>
+          <td>穆漪恬</td>
+          <td>2014级 金融</td>
+          <td>木一恬</td>
+        </tr>
+        <tr>
+          <td>自媒体</td>
+          <td>何梓溪</td>
+          <td>2014级 会计</td>
+          <td>何子西</td>
+        </tr>
+        <tr>
+          <td>自媒体</td>
+          <td>梁巧玲</td>
+          <td>2014级 商英</td>
+          <td>阿拉two</td>
+        </tr>
+        <tr>
+          <td>自媒体</td>
+          <td>徐玥宁</td>
+          <td>2014级 统计</td>
+          <td>进击的圆圆</td>
+        </tr>
+      </tbody>
+    </table>
+</div>

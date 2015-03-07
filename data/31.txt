@@ -1,0 +1,51 @@
+<div class="section-panel">
+    <h2 class="section-title">光华园招新要求</h2>
+    <h3 class="section-title"><span class="orange-text">招新对象</span></h3>
+    <p class="describe">
+	    ·西南财经大学在校本科生，年级不限，业余时间较多。</br>
+	    ·良好的团队精神，对网络有超常的兴趣，为人正直，乐于奉献，有服务意识。
+    </p>
+		<h3 class="section-title"><span class="orange-text">1.程序员</span></h3>
+		<p class="describe">
+			掌握任何一种程序语言或服务器端技术；</br>
+			熟悉ASP.net、C#、SQL等语言及相关开发环境者优先；</br>
+			有实际开发经历者优先；</br>
+			熟悉HTML、CSS等相关知识；</br>
+			有服务器维护经验者优先。
+		</p>
+		<h3 class="section-title"><span class="orange-text">2.网页制作、美工</span></h3>
+		<p class="describe">
+			对网页制作有极大的兴趣； 能够处理图像、制作海报等；</br>
+			接触过Dreamweaver、Photoshop、Fireworks、Flash、CorelDraw等软件（至少一两种）；</br>
+			熟悉HTML、CSS等相关知识优先；</br>
+			有网页制作经历者优先。
+		</p>
+		<h3 class="section-title"><span class="orange-text">3.编辑、更新人员</span></h3>
+		<p class="describe">
+			关心校园生活；较强的信息发掘能力；一定的文字能力；</br>
+			电脑操作较熟练；</br>
+			对新闻、思政、学习、生活、文学、电影、音乐、软件、论坛、博客……某方面有浓厚的兴趣；</br>
+			热烈欢迎“下载狂人、硬盘杀手…”加入我们！
+		</p>
+		<h3 class="section-title"><span class="orange-text">4.办公室</span></h3>
+		<p class="describe">
+			有较多的工作时间；</br>
+			有一定的策划能力；</br>
+			有较强的团队合作精神和沟通能力，善于与人交往，能够与其他部门协调合作及校内外各相关部门、兄弟组织的联系；</br>
+			责任心强，有耐心；</br>
+			性格开朗大方；能在压力下工作；具有吃苦耐劳的精神；</br>
+			应变能力强，讲求工作效率，有工作热情。</br></br>
+		</p>
+		<p class="describe">
+			有意者请发邮件到：ghyers@ghy.cn 附个人简历，及相关作品、联系方式。</br>
+			网站站将根据应聘者简历进行筛选，并电话通知面试。
+		</p>
+		<h3 class="section-title">
+			<a href="ghynewer.doc" title="招新报名表">★附：招新报名表★</a>
+		</h3>
+		<p class="describe">
+			请务必注明投报意向。</br>
+			电话：87092700</br>
+			办公室地址：腾骧楼422号
+		</p>
+</div>

@@ -1,0 +1,31 @@
+<div class="section-panel">
+	<h3 class="section-title"><span class="orange-text">兄弟单位：</span></h3>
+	<p class="describe">
+  	· 校报记者团</br>
+		· 财大之声广播站
+  </p>
+  <h3 class="section-title"><span class="orange-text">校内社团：</span></h3>
+	<p class="describe">
+  	· 金融投资协会</br>
+		· 起点话剧社</br>
+		· 清风社</br>
+		· 摄影协会</br>
+		· La-Sudden影像杂志</br>
+		· 保鲜户外俱乐部
+  </p>
+  <h3 class="section-title"><span class="orange-text">与我们合作过或正在合作的商家：</span></h3>
+	<p class="describe">
+  	· 锦途网络 </br>
+		· 佳能(成都) </br>
+		· INTEL(成都) </br>
+		· 中国联通成都分公司 </br>
+		· 成都数码广场 </br>
+		· 成都道洋电脑超市 </br>
+		· 环球雅思(成都) </br>
+		· BBmao搜索 </br>
+		· 北京太阳帆 </br>
+		· 温江"哎呀呀" </br>
+		· 成都弥摄影 </br>
+		· 迪邦留学
+  </p>
+</div>

@@ -1,0 +1,80 @@
+﻿<h2 class="section-title">个人信息</h2>
+<div class="section-panel col-md-8 col-sm-12">
+    <form class="form-horizontal">
+        <div class="form-group">
+            <label class="control-label col-sm-3">姓名</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control input-lg" name="username" data-bv-field="username"><i class="form-control-feedback" data-bv-icon-for="username" style="display: none;"></i>
+                <small class="help-block" data-bv-validator="notEmpty" data-bv-for="username" data-bv-result="NOT_VALIDATED" style="display: none;">The name is required and cannot be empty</small>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-3 control-label">性别</label>
+            <div class="col-sm-9">
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="gender" value="male" data-bv-field="gender">
+                        男
+                    </label>
+                </div>
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="gender" value="female" data-bv-field="gender">
+                        女
+                    </label>
+                </div>
+                <small class="help-block" data-bv-validator="notEmpty" data-bv-for="gender" data-bv-result="NOT_VALIDATED" style="display: none;">The gender is required</small>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-3 control-label">出生年月</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control input-lg" name="birthday" data-bv-field="birthday">
+                <i class="form-control-feedback" data-bv-icon-for="birthday" style="display: none;"></i>(YYYY/MM/DD)
+                <small class="help-block" data-bv-validator="date" data-bv-for="birthday" data-bv-result="NOT_VALIDATED" style="display: none;">The birthday is not valid</small>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-3 control-label">年级专业</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control input-lg" name="major" data-bv-field="major"><i class="form-control-feedback" data-bv-icon-for="major" style="display: none;"></i>
+                <small class="help-block" data-bv-validator="notEmpty" data-bv-for="major" data-bv-result="NOT_VALIDATED" style="display: none;">The major is required and cannot be empty</small>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-3 control-label">QQ</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control input-lg" name="qq" data-bv-field="qq"><i class="form-control-feedback" data-bv-icon-for="qq" style="display: none;"></i>
+                <small class="help-block" data-bv-validator="notEmpty" data-bv-for="qq" data-bv-result="NOT_VALIDATED" style="display: none;">The QQ is required and cannot be empty</small>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-3 control-label">邮箱</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control input-lg" name="email" data-bv-field="email">
+                <i class="form-control-feedback" data-bv-icon-for="email" style="display: none;"></i>
+                <small class="help-block" data-bv-validator="emailAddress" data-bv-for="email" data-bv-result="NOT_VALIDATED" style="display: none;">The input is not a valid email address</small>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-3 control-label">手机号码</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control input-lg" name="tel" data-bv-field="tel"><i class="form-control-feedback" data-bv-icon-for="tel" style="display: none;"></i>
+                <small class="help-block" data-bv-validator="notEmpty" data-bv-for="tel" data-bv-result="NOT_VALIDATED" style="display: none;">The QQ is required and cannot be empty</small>
+            </div>
+        </div>
+        <p class="describe">请留下您的宝贵意见，帮助我们能够不断进步与成长，我们会尽快处理您的意见</p>
+        <h2 class="section-title">反馈栏：</h2>
+        <div class="form-group">
+            <div class="col-sm-12">
+                <textarea rows="5" class="form-control" name="tel" data-bv-field="tel"></textarea><i class="form-control-feedback" data-bv-icon-for="tel" style="display: none;"></i>
+                <small class="help-block" data-bv-validator="notEmpty" data-bv-for="tel" data-bv-result="NOT_VALIDATED" style="display: none;">The QQ is required and cannot be empty</small>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-12">
+                <button type="submit" class="btn btn-lg btn-default">提交</button>
+            </div>
+        </div>
+    </form>
+</div>
