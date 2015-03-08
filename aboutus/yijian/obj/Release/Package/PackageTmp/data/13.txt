@@ -1,0 +1,58 @@
+<div class="section-panel">
+    <h2 class="section-title">活动剪影</h2>
+    <div class="time-left col-md-10">
+    	<img src="img/ghyPic/2004/200401.jpg" class="img-thumbnail" alt=""/>
+    	<img src="img/ghyPic/2005/200501.jpg" class="img-thumbnail" alt=""/>
+    	<img src="img/ghyPic/2011/201101.jpg" class="img-thumbnail" alt=""/>
+    	<img src="img/ghyPic/2012/201201.jpg" class="img-thumbnail" alt=""/>
+    	<img src="img/ghyPic/2013/201301.jpg" class="img-thumbnail" alt=""/>
+    	<img src="img/ghyPic/2014/201401.jpg" class="img-thumbnail" alt=""/>
+    </div>
+    <div class="col-md-2">
+			<a class="circle"href="img/ghyPic/2004/200401.jpg" data-lightbox="2004">2004</a>
+			<a href="img/ghyPic/2004/200402.jpg" data-lightbox="2004"></a>
+			<a href="img/ghyPic/2004/200403.jpg" data-lightbox="2004"></a>
+			<div class="timeline"></div>
+			<a class="circle"href="img/ghyPic/2005/200501.jpg" data-lightbox="2005">2005</a>
+			<a href="img/ghyPic/2005/200502.jpg" data-lightbox="2005"></a>
+			<div class="timeline"></div>
+			<a class="circle"href="img/ghyPic/2011/201101.jpg" data-lightbox="2011">2011</a>
+			<a href="img/ghyPic/2011/201102.jpg" data-lightbox="2011"></a>
+			<a href="img/ghyPic/2011/201103.jpg" data-lightbox="2011"></a>
+			<a href="img/ghyPic/2011/201104.jpg" data-lightbox="2011"></a>
+			<a href="img/ghyPic/2011/201105.jpg" data-lightbox="2011"></a>
+			<div class="timeline"></div>
+			<a class="circle"href="img/ghyPic/2012/201201.jpg" data-lightbox="2012">2012</a>
+			<a href="img/ghyPic/2012/201202.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201203.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201204.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201205.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201206.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201207.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201208.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201209.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201210.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201211.jpg" data-lightbox="2012"></a>
+			<a href="img/ghyPic/2012/201212.jpg" data-lightbox="2012"></a>
+			<div class="timeline"></div>
+			<a class="circle"href="img/ghyPic/2013/201301.jpg" data-lightbox="2013">2013</a>
+			<a href="img/ghyPic/2013/201302.jpg" data-lightbox="2013"></a>
+			<a href="img/ghyPic/2013/201303.jpg" data-lightbox="2013"></a>
+			<a href="img/ghyPic/2013/201304.jpg" data-lightbox="2013"></a>
+			<a href="img/ghyPic/2013/201305.jpg" data-lightbox="2013"></a>
+			<a href="img/ghyPic/2013/201306.jpg" data-lightbox="2013"></a>
+			<a href="img/ghyPic/2013/201307.jpg" data-lightbox="2013"></a>
+			<a href="img/ghyPic/2013/201308.jpg" data-lightbox="2013"></a>
+			<div class="timeline"></div>
+			<a class="circle"href="img/ghyPic/2014/201401.jpg" data-lightbox="2014">2014</a>
+			<a href="img/ghyPic/2014/201402.jpg" data-lightbox="2014"></a>
+			<a href="img/ghyPic/2014/201403.jpg" data-lightbox="2014"></a>
+			<a href="img/ghyPic/2014/201404.jpg" data-lightbox="2014"></a>
+			<a href="img/ghyPic/2014/201405.jpg" data-lightbox="2014"></a>
+			<a href="img/ghyPic/2014/201406.jpg" data-lightbox="2014"></a>
+			<a href="img/ghyPic/2014/201407.jpg" data-lightbox="2014"></a>
+			<a href="img/ghyPic/2014/201408.jpg" data-lightbox="2014"></a>
+			<a href="img/ghyPic/2014/201409.jpg" data-lightbox="2014"></a>
+			<div class="timeline"></div>
+    </div>
+</div>

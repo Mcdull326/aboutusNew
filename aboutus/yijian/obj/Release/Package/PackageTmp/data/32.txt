@@ -1,0 +1,78 @@
+<div class="section-panel">
+    <h2 class="section-title">技术大咖带你飞</h2>
+    <p class="describe">
+    	</br>
+	    数据层：MS SQL Sever2012</br>
+	    后台：MS Visual C#.NET/ASP</br></br>
+    </p>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>项目</th>
+          <th>后台</th>
+          <th>前台</th>
+          <th>地址</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>光华园首页</td>
+          <td>.NET整站系统 / ASP</td>
+          <td>XHTML+CSS+JS</td>
+          <td><a href="http://www.ghy.cn" title="进入光华园首页" target="_blank">http://www.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>新闻网</td>
+          <td>.NET整站系统(文章)</td>
+          <td>XHTML+CSS+JS</td>
+          <td><a href="http://news.ghy.cn" title="进入新闻网" target="_blank">http://news.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>思想网</td>
+          <td>.NET整站系统(文章)</td>
+          <td>XHTML+CSS+JS</td>
+          <td><a href="http://idea.ghy.cn" title="进入思想网" target="_blank">http://idea.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>学习网</td>
+          <td>.NET整站系统(文章)</td>
+          <td>XHTML+CSS+JS</td>
+          <td><a href="http://study.ghy.cn" title="进入学习网" target="_blank">http://study.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>生活网</td>
+          <td>.NET整站系统(文章)</td>
+          <td>XHTML+CSS+JS</td>
+          <td><a href="http://life.ghy.cn" title="进入生活网" target="_blank">http://life.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>音乐天堂</td>
+          <td>.NET整站系统(文章)</td>
+          <td>XHTML+CSS+JS</td>
+          <td><a href="http://music.ghy.cn" title="进入音乐网" target="_blank">http://music.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>魅影无限</td>
+          <td>.NET整站系统(文章)</td>
+          <td>XHTML+CSS+JS</td>
+          <td><a href="http://movie.ghy.cn" title="进入电影网" target="_blank">http://movie.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>文苑</td>
+          <td>.NET整站系统(文章)</td>
+          <td>XHTML+CSS+JS</td>
+          <td><a href="http://lit.ghy.cn" title="进入文苑" target="_blank">http://lit.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>软件园</td>
+          <td colspan="2">ASP共享源码修改</td>
+          <td><a href="http://soft.ghy.cn" title="进入软件园" target="_blank">http://soft.ghy.cn</a></td>
+        </tr>
+        <tr>
+          <td>草堂茗香</td>
+          <td colspan="2">Discuz!NT论坛</td>
+          <td><a href="http://bbs.ghy.cn" title="进入草堂茗香论坛" target="_blank">http://bbs.ghy.cn</a></td>
+        </tr>
+      </tbody>
+    </table>
+</div>

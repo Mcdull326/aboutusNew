@@ -1,0 +1,5 @@
+F:\visual studio 2013\Projects\yijian\yijian\bin\yijian.dll.config
+F:\visual studio 2013\Projects\yijian\yijian\bin\yijian.dll
+F:\visual studio 2013\Projects\yijian\yijian\bin\yijian.pdb
+F:\visual studio 2013\Projects\yijian\yijian\obj\Release\yijian.dll
+F:\visual studio 2013\Projects\yijian\yijian\obj\Release\yijian.pdb

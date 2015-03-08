@@ -1,0 +1,7 @@
+<div class="section-panel">
+    <h2 class="section-title">GHYer风采</h2>
+    <img src="img/ghyPic/img-box1.jpg" />
+    <img src="img/ghyPic/img-box2.jpg" />
+    <img src="img/ghyPic/img-box3.jpg" />
+    <img src="img/ghyPic/img-box4.jpg" />
+</div>

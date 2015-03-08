@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\IISweb\zzqTest\aboutus</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/yijian.dll">
+      <publishTime>03/08/2015 00:50:09</publishTime>
+    </File>
+    <File Include="complaint.aspx">
+      <publishTime>03/08/2015 00:34:21</publishTime>
+    </File>
+    <File Include="css/lightbox.css">
+      <publishTime>03/04/2015 21:45:36</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>03/07/2015 22:26:36</publishTime>
+    </File>
+    <File Include="data/11.txt">
+      <publishTime>03/05/2015 16:15:14</publishTime>
+    </File>
+    <File Include="data/12.txt">
+      <publishTime>03/05/2015 16:15:15</publishTime>
+    </File>
+    <File Include="data/13.txt">
+      <publishTime>03/05/2015 16:15:15</publishTime>
+    </File>
+    <File Include="data/21.txt">
+      <publishTime>03/05/2015 16:52:13</publishTime>
+    </File>
+    <File Include="data/22.txt">
+      <publishTime>03/05/2015 16:21:39</publishTime>
+    </File>
+    <File Include="data/23.txt">
+      <publishTime>03/07/2015 20:23:05</publishTime>
+    </File>
+    <File Include="data/31.txt">
+      <publishTime>03/05/2015 16:15:15</publishTime>
+    </File>
+    <File Include="data/32.txt">
+      <publishTime>03/05/2015 16:35:06</publishTime>
+    </File>
+    <File Include="data/33.txt">
+      <publishTime>03/05/2015 16:15:15</publishTime>
+    </File>
+    <File Include="data/41.txt">
+      <publishTime>03/05/2015 16:15:15</publishTime>
+    </File>
+    <File Include="data/51.txt">
+      <publishTime>03/05/2015 16:15:15</publishTime>
+    </File>
+    <File Include="ghynewer.doc">
+      <publishTime>03/05/2015 16:15:15</publishTime>
+    </File>
+    <File Include="img/bangongshi.png">
+      <publishTime>11/20/2014 22:17:26</publishTime>
+    </File>
+    <File Include="img/bg.png">
+      <publishTime>03/04/2015 00:11:01</publishTime>
+    </File>
+    <File Include="img/bianji.png">
+      <publishTime>11/20/2014 22:37:53</publishTime>
+    </File>
+    <File Include="img/close.png">
+      <publishTime>03/30/2014 09:45:10</publishTime>
+    </File>
+    <File Include="img/ghyPic/2004/200401.jpg">
+      <publishTime>03/04/2015 17:08:08</publishTime>
+    </File>
+    <File Include="img/ghyPic/2004/200402.jpg">
+      <publishTime>03/04/2015 17:08:50</publishTime>
+    </File>
+    <File Include="img/ghyPic/2004/200403.jpg">
+      <publishTime>03/04/2015 17:09:34</publishTime>
+    </File>
+    <File Include="img/ghyPic/2005/200501.jpg">
+      <publishTime>03/04/2015 17:10:32</publishTime>
+    </File>
+    <File Include="img/ghyPic/2005/200502.jpg">
+      <publishTime>03/04/2015 17:11:02</publishTime>
+    </File>
+    <File Include="img/ghyPic/2011/201101.jpg">
+      <publishTime>03/04/2015 17:11:39</publishTime>
+    </File>
+    <File Include="img/ghyPic/2011/201102.jpg">
+      <publishTime>03/04/2015 17:12:02</publishTime>
+    </File>
+    <File Include="img/ghyPic/2011/201103.jpg">
+      <publishTime>03/04/2015 17:12:29</publishTime>
+    </File>
+    <File Include="img/ghyPic/2011/201104.jpg">
+      <publishTime>03/04/2015 17:12:53</publishTime>
+    </File>
+    <File Include="img/ghyPic/2011/201105.jpg">
+      <publishTime>03/04/2015 17:13:16</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201201.jpg">
+      <publishTime>03/04/2015 17:15:05</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201202.jpg">
+      <publishTime>03/04/2015 17:15:30</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201203.jpg">
+      <publishTime>03/04/2015 17:16:45</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201204.jpg">
+      <publishTime>03/04/2015 17:17:04</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201205.jpg">
+      <publishTime>03/04/2015 17:15:57</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201206.jpg">
+      <publishTime>03/04/2015 17:17:29</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201207.jpg">
+      <publishTime>03/04/2015 17:17:58</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201208.jpg">
+      <publishTime>03/04/2015 17:18:27</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201209.jpg">
+      <publishTime>03/04/2015 17:18:48</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201210.jpg">
+      <publishTime>03/04/2015 17:19:06</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201211.jpg">
+      <publishTime>03/04/2015 17:19:32</publishTime>
+    </File>
+    <File Include="img/ghyPic/2012/201212.jpg">
+      <publishTime>03/04/2015 17:19:59</publishTime>
+    </File>
+    <File Include="img/ghyPic/2013/201301.jpg">
+      <publishTime>03/04/2015 17:20:38</publishTime>
+    </File>
+    <File Include="img/ghyPic/2013/201302.jpg">
+      <publishTime>03/04/2015 17:21:09</publishTime>
+    </File>
+    <File Include="img/ghyPic/2013/201303.jpg">
+      <publishTime>03/04/2015 17:21:41</publishTime>
+    </File>
+    <File Include="img/ghyPic/2013/201304.jpg">
+      <publishTime>03/04/2015 17:22:02</publishTime>
+    </File>
+    <File Include="img/ghyPic/2013/201305.jpg">
+      <publishTime>03/04/2015 17:22:22</publishTime>
+    </File>
+    <File Include="img/ghyPic/2013/201306.jpg">
+      <publishTime>03/04/2015 17:22:42</publishTime>
+    </File>
+    <File Include="img/ghyPic/2013/201307.jpg">
+      <publishTime>03/04/2015 17:23:02</publishTime>
+    </File>
+    <File Include="img/ghyPic/2013/201308.jpg">
+      <publishTime>03/04/2015 17:23:21</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201401.jpg">
+      <publishTime>03/04/2015 17:25:17</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201402.jpg">
+      <publishTime>03/04/2015 17:24:19</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201403.jpg">
+      <publishTime>03/04/2015 17:24:44</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201404.jpg">
+      <publishTime>03/04/2015 17:26:11</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201405.jpg">
+      <publishTime>03/04/2015 17:25:39</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201406.jpg">
+      <publishTime>03/04/2015 17:26:53</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201407.jpg">
+      <publishTime>03/04/2015 17:27:14</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201408.jpg">
+      <publishTime>03/04/2015 17:27:39</publishTime>
+    </File>
+    <File Include="img/ghyPic/2014/201409.jpg">
+      <publishTime>03/04/2015 17:28:04</publishTime>
+    </File>
+    <File Include="img/kaifa.png">
+      <publishTime>11/20/2014 22:35:29</publishTime>
+    </File>
+    <File Include="img/loading.gif">
+      <publishTime>03/30/2014 09:45:10</publishTime>
+    </File>
+    <File Include="img/logo.jpg">
+      <publishTime>11/19/2014 19:58:51</publishTime>
+    </File>
+    <File Include="img/logo.png">
+      <publishTime>11/20/2014 13:37:38</publishTime>
+    </File>
+    <File Include="img/next.png">
+      <publishTime>03/30/2014 09:45:10</publishTime>
+    </File>
+    <File Include="img/prev.png">
+      <publishTime>03/30/2014 09:45:10</publishTime>
+    </File>
+    <File Include="img/shejibu.png">
+      <publishTime>11/20/2014 22:21:36</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>03/08/2015 00:43:16</publishTime>
+    </File>
+    <File Include="js/lightbox.min.js">
+      <publishTime>03/05/2015 16:13:34</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>03/08/2015 00:46:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/08/2015 00:47:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

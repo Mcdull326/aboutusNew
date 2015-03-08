@@ -1,0 +1,32 @@
+<div class="section-panel">
+  <p class="describe"></br>
+    各部门、院系、社团如需在光华园网站进行活动宣传或发布活动广告,须下载并填写《关于校内非商业性广告投放的确认函》, 向党委宣传部申请报批，将已审批的确认函送至腾骧楼422，并自行提供宣传图片及新闻稿件,发送至ghyers@ghy.cn。
+  </p>
+  <p class="describe">
+    <span class="orange-text">注意事项：</span></br>
+		1.校内活动一般可申请“光华园首页轮换焦点图”，其内容不可包含商业性质宣传；</br>
+		2.图片需符合ghy.cn的页面整体风格，颜色过于鲜艳而影响视觉或图片发生明显拉伸（图片被拉长或压扁）将被建议修改；></br>
+		3.建议在图片上面写出必要的活动信息，以达到更好的宣传效果。
+  </p>
+  <p class="describe"></br>
+    以下是网站广告图片位置及尺寸，效果见实际页面。
+  </p>
+  <table class="table table-bordered">
+  	<thead>
+  		<tr>
+        <th>项目</th>
+        <th>位置</th>
+        <th>尺寸(像素)</th>
+        <th>备注</th>
+      </tr>
+  	</thead>
+    <tbody>
+      <tr>
+        <td>光华园首页宣传栏</td>
+        <td>中间右侧</td>
+        <td>470×220</td>
+        <td>必须为JPG格式<br>大小为162kb以内</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

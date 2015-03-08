@@ -1,0 +1,89 @@
+﻿<div class="section-panel">
+    <h2 class="section-title">
+        关于光华园网站
+        <small>ABOUT GHY</small>
+    </h2>
+    <p class="describe">
+        西南财经大学“光华园” 网站由校党委领导，党委宣传部直接管理，2001年6月建站，和校报记者团、校广播站一起担负着校内的主要宣传工作。“光华园”网站是财大的学生门户网站，内容丰富多彩，下辖新闻网、思想网、学习网、生活网、音乐天堂、魅影无限、软件下载、论坛、博客、文苑等栏目，涵概了校园生活的方方面面。网站始终坚持以“思想性”、“娱乐性”、“文化性”、“服务性”四性标准为师生提供优质的网络服务，以校园网为平台，竭尽所能地满足财大师生的各种需求。光华园总的发展目标是要成为成都乃至西南地区教育网内首屈一指的门户网站，它拥有巨大的访问量，在同学中有深入的影响。
+    </p>
+    <h2 class="section-title">
+        各子网介绍
+        <small>SUBNET INTRODUCTION</small>
+    </h2>
+    <p class="describe">
+        <span class="orange-text">新闻网：</span>
+        西财新闻、院系风采、社团联盟、图片新闻、校园资讯、校外媒体、高校动态
+    </p>
+    <p class="describe">——你身边的新闻中心</p>
+    <p class="describe">
+        <span class="orange-text">思想网：</span>
+        形式与政策、三个代表、邓论之窗、智者哲思、党的知识、经济纵横
+    </p>
+    <p class="describe">——你也要与时俱进</p>
+    <p class="describe">
+        <span class="orange-text">学习网：</span>
+        海量视频、最新资讯、课件中心、电子书
+    </p>
+    <p class="describe">——网上学习新方式</p>
+    <p class="describe">
+        <span class="orange-text">生活网：</span>
+        风行天府、玩转成都、好吃嘴儿、财大油条、生活专题
+    </p>
+    <p class="describe">——资讯共享，生活共赏</p>
+    <p class="describe">
+        <span class="orange-text">音乐网：</span>
+        近六千张专辑，七万首歌曲，华语、日韩、欧美、古典、摇滚
+    </p>
+    <p class="describe">——音乐是灵魂的语言</p>
+    <p class="describe">
+        <span class="orange-text">魅影无限：</span>
+        科教视频、记录长廊、红色经典、最新大片、最热综艺
+    </p>
+    <p class="describe">——魅影无限，引领财大影视潮流</p>
+    <p class="describe">
+        <span class="orange-text">软件下载：</span>
+        系统、网络、媒体、安全等软件校内高速下载
+    </p>
+    <p class="describe">——最快速的下载，最方便的使用</p>
+    <p class="describe">
+        <span class="orange-text">论坛：</span>
+        草堂茗香凝聚了几代光华学子的深深校园情，思想、学习、交流
+    </p>
+    <p class="describe">——“灌，是一种美德”</p>
+    <p class="describe">
+        <span class="orange-text">文苑：</span>
+        诗露雨花、散花碎笔、经典美文、小说江湖、哲影萍踪
+    </p>
+    <p class="describe">——我们自己的文学天地</p>
+    <p class="describe">
+        <span class="orange-text">自媒体事业群：</span>
+        网络的各个宣传途径包括微博，人人和微信的推送。还有最可爱的香菇电台
+    </p>
+    <p class="describe">——是你的香菇菌</p>
+    <h2 class="section-title">
+        部门设置
+        <small>ORGANIZATION STRUCTURE</small>
+    </h2>
+    <ul class="org-set row">
+        <li class="col-md-3">
+            <img class="img" src="img/bangongshi.png" height="64" width="64" alt="">
+            <h3>办公室</h3>
+            <p class="describe">这里是光华园的内务府；出得了厅堂拉外联，理得了金钱掌财权，进得了住所清亭轩。我们连接每一个部门，创造每一份欢乐，团结网站这个家。</p>
+        </li>
+        <li class="col-md-3">
+            <img src="img/shejibu.png" height="64" width="64" alt="">
+            <h3>设计部</h3>
+            <p class="describe">这里汇聚光华园的色彩魔术师，把灵感化为现实，用设计铸造梦想。加入我们，创造属于你的世界。</p>
+        </li>
+        <li class="col-md-3">
+            <img src="img/kaifa.png" height="64" width="64" alt="">
+            <h3>开发部</h3>
+            <p class="describe">这里汇聚光华园的编程大神；虚拟与真实之间，敲出的是我们的旋律；梦想与现实之际，交汇的是我们的传奇。开发部，你的圆梦之地。</p>
+        </li>
+        <li class="col-md-3">
+            <img src="img/bianji.png" height="64" width="64" alt="">
+            <h3>编辑部</h3>
+            <p class="describe">这里汇聚光华园的统筹者。思考现实，把握灵感，集合三方思绪，成就梦想光彩。运筹帷幄地，共享荣耀时。编辑部，期待你的加入！</p>
+        </li>
+    </ul>
+</div>

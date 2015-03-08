@@ -1,0 +1,6 @@
+F:\visual studio 2013\Projects\yijian\yijian\obj\Debug\yijian.dll
+F:\visual studio 2013\Projects\yijian\yijian\bin\yijian.dll.config
+F:\visual studio 2013\Projects\yijian\yijian\bin\yijian.dll
+F:\visual studio 2013\Projects\yijian\yijian\bin\yijian.pdb
+F:\visual studio 2013\Projects\yijian\yijian\obj\Debug\yijian.pdb
+F:\visual studio 2013\Projects\yijian\yijian\obj\Debug\aboutus.csprojResolveAssemblyReference.cache

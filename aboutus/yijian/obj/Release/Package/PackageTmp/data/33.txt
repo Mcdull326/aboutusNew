@@ -1,0 +1,34 @@
+<div class="section-panel">
+    <h2 class="section-title">梦想和现实之间，只差一个光华园</h2>
+    <p class="describe"></br>
+	    如果你对编程有着超常的兴趣，却没有施展的平台，那么，来光华园吧！</br>
+	    如果你对电脑硬件、软件有着超常的执着，那么，来光华园试试吧！</br>
+	    如果你喜欢做网页，爱好设计，创意无限，那么，还犹豫什么！
+    </p>
+    <p class="describe">
+	    www.ghy.cn成立于2001年6月，历经十年多的发展，凝聚了一代又一代志同道合的GHYer在本科课程之余为网站奉献青春，通过历届成员不懈的学习与钻研，在西南财大这个文科类院校搭建了一个高速、方便的网络平台，为全校师生提供了优质的服务，积累了一定的技术实力，然而，我们仍然需要更多有实力、有激情、有兴趣的同学加入我们的团队，一起钻研、一同学习，为财大师生提供更好的网络服务！
+    </p>
+    <p class="describe">
+	    光华园是一个锻炼人的地方，无论是责任意识、团队力量还是工作态度、做事方式都会超出你的想象。
+    </p>
+    <p class="describe">
+	    在ghy，你是学生团队的一员，同时也肩负着为全校师生服务的责任，你的一举一动、你的程序、你的图片、你的文字、你更新的内容……都关系重大，所以，GHYer 这个角色，也是一项巨大的挑战！
+    </p>
+    <p class="describe">
+	    如果你立志加入我们一起学习的话，可以尝试了解GHYer也正在使用和学习的技术：
+    </p>
+    <p class="describe">
+	    <span class="orange-text">程序方面：</span></br>
+	    HTML、CSS、Javascript、Jquery、C#、ASP.NET、Java、SQL、IIS、Android、Photoshop切图……
+    </p>
+    <p class="describe">
+	    <span class="orange-text">美工方面：</span></br>
+	    使用 PhotoShop、Fireworks、绘制网页效果图；</br>
+	    使用CorelDraw绘制喷绘海报。
+    </p>
+    <p class="describe">
+    	<span class="orange-text">
+	    	梦想和现实之间，只差一个光华园。我们在这里，等你来！
+	    </span>
+    </p>
+</div>
